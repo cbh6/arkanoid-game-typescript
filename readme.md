@@ -9,4 +9,4 @@ I followed this FreeCodeCamp mini-course https://www.freecodecamp.org/news/build
 
 The complete video of the tutorial is also on youtube. https://www.youtube.com/watch?v=7bejSTim38A
 
-![Image][https://www.freecodecamp.org/news/content/images/2021/02/arkenoid.gif]
+![Image of Arkanoid](https://www.freecodecamp.org/news/content/images/2021/02/arkenoid.gif)

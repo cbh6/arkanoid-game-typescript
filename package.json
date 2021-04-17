@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel serve src/index.html",
     "watch": "parcel watch src/index.html",
-    "predeploy": "rm -rf dist && parcel build index.html --public-url YOUR_REPO_NAME",
+    "predeploy": "rm -rf dist && parcel build src/index.html --public-url /arkanoid-game-typescript",
     "deploy": "gh-pages -d dist"
   },
   "author": "",
